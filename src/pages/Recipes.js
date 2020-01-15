@@ -7,11 +7,12 @@ export default class Recipes extends Component {
   constructor(props) {
     super(props);
 
-    this.state = {
+   
+  }
+   this.state = {
       recipes: recipeData,
       search: ""
     };
-  }
   handleChange = e => {
     this.setState({
       search: e.target.value
