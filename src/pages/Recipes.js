@@ -9,7 +9,7 @@ export default class Recipes extends Component {
 
    
   }
-   this.state = {
+   state = {
       recipes: recipeData,
       search: ""
     };
