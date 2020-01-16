@@ -24,6 +24,6 @@ export const recipeData = [
              "http://thepioneerwoman.com/cooking/2008/06/crash-hot-potatoes/",
            recipe_id: "47319",
            image_url:
-             "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVhepK7iCrd0EQ41U3mQFa9_o7hfRLbK5empetM_C9lMwnSADH&s"
+             "https://i1.wp.com/thepioneerwoman.com/wp-content/uploads/2008/06/2545108890_fb497513a7_o.jpg?resize=500%2C332"
          }
        ];

@@ -36,7 +36,9 @@ export default class Recip extends Component {
             </Link>
             <a
               href={source_url}
-              className="btn btn-success text-capitalize mx-3"
+              rel="_blank"
+              rel="noopener noreferrer"
+              className="btn btn-success text-capitalize mx-2"
             >
               source url
             </a>
